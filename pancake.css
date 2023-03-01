@@ -1,0 +1,54 @@
+h1{font-size:60PX;
+font-family:David;
+color:darksalmon;
+border:1px solid beige;
+		width:100%;
+		text-align: center
+}
+body{text-align: center;
+background-color:beige;
+ border:1px solid beige;
+		width:90%;
+	  margin-left: auto;
+  margin-right: auto;
+  font-size:20px;
+  font-family: Tahoma;
+  
+}
+.מרכיבים{column-count: 2;
+border:3px solid brown;
+		width:45%;
+			  margin-left: auto;
+  margin-right: auto;
+  padding:5px
+	}
+	
+	.שלבים {text-align: right;
+	border:3px solid beige ;
+		width:85%;
+			  margin-left: auto;
+  margin-right: auto;
+  padding:5px
+		} 
+	
+	
+.red {text-align: center;
+	border: 1px solid #ddd;
+  border-radius: 30px;
+  padding: 5px;
+  width: 600;
+  height:420px;
+  }
+  
+  .blue{text-align: center;
+	border: 1px solid #ddd;
+  border-radius: 30px;
+  padding: 5px;
+  width: 300;
+  height:420px;
+  }
+  #שלבי{font-size:30px;
+  text-align: center;
+color:DarkSlateGray
+	  
+  }
